@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnnaJul 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript.
-- 🖥 I can already work with: HTML/CSS | Python | 
-- 💞️ I’m looking to collaborate on ...
+- 🖥 I can already work with: HTML/CSS | Python | Java | C |
+- 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me: anaglezmoya01@gmail.com
 
 <!---
